@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Struct2Test:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Struct2Test" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Struts 2-2.5.14.1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
